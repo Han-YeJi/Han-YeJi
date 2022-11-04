@@ -3,7 +3,7 @@
 
 I’m interested in `Machine Learning` ,  ` Deep Learning` , `Data Analytics` 💖
 
-I’m currently learning `NLP` , `Anomlay Detection`.  
+I’m currently learning `NLP` , `Multimodal Learning`.  
 #
 
 
