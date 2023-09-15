@@ -1,9 +1,8 @@
 
 👋  Hi there! I'm Han-YeJi.
 
-I’m interested in `Machine Learning` ,  ` Deep Learning` , `Data Analytics` 💖
-
-I’m currently learning `NLP` , `Multimodal Learning`.  
+I’m interested in `Deep Learning` ,  ` Multimodal Learning` , `Natural Language Processing` 💖
+ 
 #
 
 
